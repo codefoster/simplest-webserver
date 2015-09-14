@@ -1,0 +1,14 @@
+{
+  "name": "simplest-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Foster <jeremy.foster@live.com> (http://codefoster.com/)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
